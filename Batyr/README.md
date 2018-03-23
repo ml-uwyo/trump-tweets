@@ -15,11 +15,21 @@ Repo for Batyr
 Implemented tf-idf vectorization of a text (= list of tweets). Then, tried out nearest-neighbors algorithm to find similar tweets (works pretty well). Finally, fed into k-means model
 and t-SNE for visualization of the most frequent/important terms.
 
+#### t-SNE results
+
+For the plots, check ```/clustering``` folder with png images.
+
+**Example**
+
+Perplexity = 50, 2D
+
+![perplexity50](clustering/perplexity_50_2.png)
+
 #### References
 
-[Main article](https://beckernick.github.io/law-clustering/)
-[t-SNE paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
-[TF-IDF](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
+- [Main article](https://beckernick.github.io/law-clustering/)
+- [t-SNE paper](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+- [TF-IDF](http://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.TfidfVectorizer.html)
 
 ## Further analysis
 
