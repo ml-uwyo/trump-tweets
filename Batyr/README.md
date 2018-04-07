@@ -35,14 +35,9 @@ Perplexity = 50, 2D
 
 #### Markov chains results
 
-Example with *n-grams = 2* and *output text size = 50*:
+Example with *n-grams = 3* and *output text size = 45*:
 
-> And their next word from thence upon he said a much the than that if any attempted with was patience, or spake with any obstruction may it startled be that those account conscience, and then settled wanted into writings strange time; with them going the cape and origin of the and rebellion ...
-
-Example with *n-grams = 3* and *output text size = 75*:
-
-> And in two or more i had the besides several that i took and killed for my food. after that, i enclosed five several pieces of the to feed them in, with little pens to drive them to take them at i could; and gates out of one difficulty of gratitude in another. but this was no only for now i not only thought goat’s flesh to feed on when i pleased, but milk too—a thing which, indeed, ...
-
+> “every big thinker has had to start as a nobody. just think big  and  iraq encourages distinguishes you from the majority.” – think big if once said he “would be ignoring the law” by granting amnesty through executive action. now he’s about to do it. what ...
 
 ## Further analysis
 
